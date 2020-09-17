@@ -1,0 +1,1 @@
+This is my third assignment I've completed from The Odin Project. Using DOM manipulation, I was able to build a browser version of a hybrid sketchpad/etch-a-sketch.
